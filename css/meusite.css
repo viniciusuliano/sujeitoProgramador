@@ -1,0 +1,10 @@
+/* classe seria para selecionar mais de um elemento */
+.H1-TESTE{
+    color: aqua;
+}
+
+/* id seleciona apenas um elemento */
+
+#paragrafo{
+    color: red;
+}

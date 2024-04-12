@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.container{
+    background-color: red;
+    height: 50%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.margin{
+    background-color: aqua;
+}
+
+.border{
+    border: 10px solid;
+}
+
+.padding{
+    padding: 10px;
+}
+
+
+.elemento{
+    color: aliceblue;
+}
